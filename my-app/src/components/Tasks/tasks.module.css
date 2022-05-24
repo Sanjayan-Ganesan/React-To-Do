@@ -1,0 +1,11 @@
+#completed{
+  position: absolute;
+  top: 60%;
+  left: 0%;
+  text-align: center;
+  width: 100%;
+  height: 140px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: aqua;
+}
